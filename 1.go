@@ -17,7 +17,7 @@ func main() {
 	book1 := Book{
 		Title:  "Руслан и Людмила",
 		Author: "А.C. Пушкин",
-		Year:   192,
+		Year:   1986,
 	}
 	fmt.Println(book1.GetInfo())
 }
